@@ -1,1 +1,3 @@
 file added from local
+
+line added from local repo before pull updated one from remote
