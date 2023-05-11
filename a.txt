@@ -7,3 +7,5 @@ line added from remote repo
 >>>>>>> 9a115faa77428e4a18956daf31985b0035c8a2d9
 
 line added in remote repo from b1
+
+line added in local repo for b1
