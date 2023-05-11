@@ -1,3 +1,7 @@
 file added from local
+<<<<<<< HEAD
 
 line added from local repo before pull updated one from remote
+=======
+line added from remote repo
+>>>>>>> 9a115faa77428e4a18956daf31985b0035c8a2d9
